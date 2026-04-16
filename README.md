@@ -19,7 +19,7 @@ Este diagrama muestra la conexión física real de los componentes.
 
 <img width="1536" height="1024" alt="Diagrama Pictorico" src="https://github.com/user-attachments/assets/2d741794-3795-4a26-8a4d-2a879ee10a10" />
 
-*Descripción: Conexión de los pulsadores y el joystick a los pines GPIO del ESP32 en una protoboard, el cual funciona como el plano de montaje físico que traduce la teoría a la realidad de la protoboard. En este apartado se documenta la disposición espacial de los componentes, mostrando cómo el ESP32 interactúa físicamente con el joystick y los pulsadores de colores a través de conexiones directas y puentes de voltaje. Es una pieza fundamental para la replicabilidad del hardware, ya que permite identificar a simple vista la organización de los cables de datos, las líneas de alimentación de $3.3V$ y los puntos de retorno a tierra común.* 
+Descripción: Conexión de los pulsadores y el joystick a los pines GPIO del ESP32 en una protoboard, el cual funciona como el plano de montaje físico que traduce la teoría a la realidad de la protoboard. En este apartado se documenta la disposición espacial de los componentes, mostrando cómo el ESP32 interactúa físicamente con el joystick y los pulsadores de colores a través de conexiones directas y puentes de voltaje. Es una pieza fundamental para la replicabilidad del hardware, ya que permite identificar a simple vista la organización de los cables de datos, las líneas de alimentación de $3.3V$ y los puntos de retorno a tierra común. 
 
 # Act. 7: Diagrama de Bloques
 Este diagrama es una representación gráfica de lo que se realizó en nuestro proyecto.
